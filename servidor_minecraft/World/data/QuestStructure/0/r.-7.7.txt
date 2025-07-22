@@ -2,3 +2,7 @@ RLCraft_BasicCaveSpider,-3711,-3711,3909,3909
 RLCraft_UndergroundRuin1,-3717,-3708,3906,3915
 RLCraft_AgentStarbuck_WaterBase,-3736,-3719,3984,3996
 BlazeSpawnerCrystal,-3726,-3720,4061,4067
+ShrineSmallFire,-3980,-3970,3834,3844
+RLCraft_DecentSpider,-3967,-3967,3858,3858
+RLCraft_UndergroundRuin2,-3969,-3962,3853,3863
+ShrineSmallFire,-3855,-3845,3662,3672

@@ -154,6 +154,11 @@
 -4759 63 -6861 -4752 76 -6855 TP_FishingShack.tml
 -4742 57 -6936 -4735 67 -6929 BridgePilings-sm2.tml
 -4685 62 -6695 -4673 84 -6683 BaloonVeryLow.tml
+-3950 35 3668 -3924 47 3676 shipwreck.tml
+-3920 52 4034 -3884 71 4045 SunkenShip-v2.tml
+-3834 63 3798 -3800 73 3833 UnderwaterBase.tml
+-3830 63 3916 -3799 103 3946 CastleOcean.tml
+-3745 40 4087 -3737 52 4113 shipwreck.tml
 -3673 63 3777 -3643 106 3807 SkyCastle.tml
 -3596 33 4007 -3560 44 4018 SunkenShip-v3.tml
 -3569 47 3835 -3558 66 3871 SunkenShip-v2.tml
