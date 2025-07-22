@@ -108,6 +108,7 @@
 -7735 98 -1052 -7727 107 -1044 LargeStoneTwoStoryHouse.tml
 -7702 79 -912 -7694 89 -904 LargeStoneHouseWBasement.tml
 -7687 87 -635 -7679 93 -627 ShortTower.tml
+-7680 74 -555 -7672 84 -547 LargeStoneHouseWBasement.tml
 -7652 128 -804 -7649 132 -802 SkeletonHeadStatue.tml
 -7625 76 -925 -7621 78 -921 EmeraldOreOutcrop.tml
 -7076 66 859 -7061 74 868 Archway.tml
@@ -130,6 +131,7 @@
 -6687 64 897 -6672 75 908 Barn-ruined.tml
 -6680 62 787 -6672 72 795 TallTower.tml
 -6679 70 1017 -6667 74 1029 AncientFountain.tml
+-6676 74 547 -6667 77 556 RuinedSmallFountainDiagonal.tml
 -6669 66 624 -6665 68 628 EmeraldOreOutcrop.tml
 -6602 68 705 -6589 115 718 Orthanc.tml
 -6597 70 582 -6589 75 590 Pit-small.tml
@@ -152,6 +154,11 @@
 -4759 63 -6861 -4752 76 -6855 TP_FishingShack.tml
 -4742 57 -6936 -4735 67 -6929 BridgePilings-sm2.tml
 -4685 62 -6695 -4673 84 -6683 BaloonVeryLow.tml
+-3673 63 3777 -3643 106 3807 SkyCastle.tml
+-3596 33 4007 -3560 44 4018 SunkenShip-v3.tml
+-3569 47 3835 -3558 66 3871 SunkenShip-v2.tml
+-3487 63 3887 -3479 71 3896 WoodHouse_Intact.tml
+-3481 63 4083 -3451 100 4113 PirateShip.tml
 -3325 37 3785 -3299 49 3793 shipwreck.tml
 -3300 37 3775 -3292 49 3801 shipwreck.tml
 -3294 36 3790 -3286 48 3816 shipwreck.tml

@@ -23,3 +23,5 @@ StoneBoulder,-7018,-7009,846,855
 RLCraft_SmallUndergroundSkeleton,-7006,-6998,933,941
 StonePlantMound1,-7049,-7043,792,798
 P_Crater,-7062,-6986,589,672
+RLCraft_SmallUndergroundSkeleton,-6915,-6907,555,563
+DinosaurSkull,-6945,-6934,536,555
