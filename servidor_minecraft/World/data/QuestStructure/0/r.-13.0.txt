@@ -9,3 +9,15 @@ StoneBoulder,-6871,-6862,288,297
 StonePlantMound3,-6870,-6861,240,251
 HobbitHole,-6894,-6797,238,310
 AbandonedWoodTower,-6975,-6945,429,465
+StonePlantMound2,-7057,-7045,505,518
+StonePlantMound2,-7074,-7061,468,480
+StonePlantMound1,-7145,-7139,497,503
+ClayWaterMound,-7058,-7051,346,354
+DinosaurSkeleton,-7113,-7067,290,299
+StonePlantMound,-7141,-7136,286,291
+StonePlantMound2,-7160,-7147,266,278
+WoodWallRemains,-7024,-7016,261,289
+StonePlantMound2,-7172,-7159,406,418
+StonePlantMound,-7086,-7081,225,230
+StonePlantMound3,-7160,-7151,199,210
+StoneBoulder,-7140,-7131,102,111

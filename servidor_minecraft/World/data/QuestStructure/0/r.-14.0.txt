@@ -1,0 +1,5 @@
+StonePlantMound,-7185,-7180,260,265
+ClayWaterMound1,-7218,-7207,238,248
+StonePlantBoulder,-7236,-7226,327,337
+StonePlantMound,-7219,-7214,174,179
+StonePlantMound,-7204,-7199,179,184

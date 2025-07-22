@@ -31,3 +31,10 @@ RLCraft_DecentSkeleton,-6982,-6982,549,549
 RLCraft_UndergroundRuin2,-6984,-6977,544,554
 StoneBoulder,-6992,-6983,520,529
 StonePlantMound2,-7035,-7023,561,574
+StoneLeafMound,-7078,-7071,538,547
+GiganticTree1,-7090,-7012,496,559
+StonePlantMound4,-7101,-7094,559,566
+StonePlantMound3,-7104,-7095,601,612
+DinosaurSkeleton,-7151,-7105,519,528
+StonePlantBoulder,-7133,-7123,643,653
+StonePlantMound4,-7162,-7155,563,570

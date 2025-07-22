@@ -113,6 +113,15 @@
 -7680 74 -555 -7672 84 -547 LargeStoneHouseWBasement.tml
 -7652 128 -804 -7649 132 -802 SkeletonHeadStatue.tml
 -7625 76 -925 -7621 78 -921 EmeraldOreOutcrop.tml
+-7278 67 174 -7274 73 177 StonePillar.tml
+-7223 70 83 -7211 115 95 TowerMedium.tml
+-7220 63 390 -7210 70 401 WoodHouse3_Ruined.tml
+-7202 75 166 -7199 79 168 SkeletonHeadStatue.tml
+-7183 62 544 -7175 68 552 LargeStoneHouse.tml
+-7136 66 363 -7132 74 367 SmallWell.tml
+-7116 67 439 -7104 112 451 TowerEasy.tml
+-7111 64 191 -7102 67 200 RuinedSmallFountainDiagonal.tml
+-7088 11 524 -7085 153 527 Beacon.tml
 -7088 72 1144 -7080 78 1152 LargeStoneHouse.tml
 -7076 66 859 -7061 74 868 Archway.tml
 -7075 62 626 -7069 68 634 StoneHouse.tml
@@ -120,6 +129,7 @@
 -7070 61 952 -7065 69 957 PillarBase.tml
 -7046 61 1022 -7039 70 1029 BridgePilings-small_river.tml
 -7026 64 392 -7011 72 407 Mausoleum.tml
+-7006 54 181 -6999 63 188 BridgePilings-small.tml
 -6997 67 644 -6994 73 648 StonePillar.tml
 -6993 28 893 -6985 37 901 LargeStoneTwoStoryHouse.tml
 -6987 62 501 -6982 70 506 PillarBase.tml
