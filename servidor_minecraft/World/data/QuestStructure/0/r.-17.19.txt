@@ -6,3 +6,11 @@ StonePlantMound1,-9131,-9125,10009,10015
 RLCraft_DecentSpider,-9127,-9127,10081,10081
 RLCraft_UndergroundRuin2,-9132,-9122,10076,10083
 StonePlantBoulder,-9113,-9103,10089,10099
+StoneBoulder,-8990,-8981,9840,9849
+StonePlantMound3,-9154,-9143,10187,10196
+StonePlantMound3,-9108,-9097,10182,10191
+StonePlantMound2,-9105,-9093,10205,10218
+RLCraft_DecentZombie,-9088,-9088,10204,10204
+RLCraft_UndergroundRuin3,-9093,-9085,10198,10206
+StonePlantMound2,-8875,-8862,9812,9824
+MeteorSite,-9121,-9106,9760,9790

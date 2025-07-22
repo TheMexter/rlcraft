@@ -1,0 +1,5 @@
+RLCraft_AgentStarbuck_WaterBase,7092,7109,781,793
+UndergroundCultChamber,6987,7019,648,690
+StoneBoulder,6937,6946,889,898
+VillageWoodMill,6987,7003,996,1009
+VillageHouseRich1,6921,6939,993,1014

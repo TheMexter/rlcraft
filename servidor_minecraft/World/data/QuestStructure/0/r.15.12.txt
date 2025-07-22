@@ -28,3 +28,4 @@ BrickHenge,7837,7853,6329,6345
 RLCraft_DecentSkeleton,7990,7990,6326,6326
 RLCraft_UndergroundRuin2,7985,7992,6321,6331
 OldWatchtower,7833,7845,6311,6324
+AbandonedWoodTower,8123,8153,6613,6649
