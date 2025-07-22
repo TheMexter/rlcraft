@@ -989,6 +989,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "slime": "2025-07-22 02:36:52 +0000",
+      "skeleton": "2025-07-22 22:01:36 +0000",
       "zombie": "2025-07-22 05:10:20 +0000"
     },
     "done": false
