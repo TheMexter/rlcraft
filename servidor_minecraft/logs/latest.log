@@ -3687,3 +3687,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [16:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was shot by Skeleton
 [16:51:26] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-8034, y:131, z:-927] in the dimension 0
 [16:51:26] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
+[17:08:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was shot by Skeleton
+[17:08:55] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-8032, y:131, z:-924] in the dimension 0
+[17:08:55] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
+[17:09:01] [Thread-90/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for af7c12d2-04f9-393d-82dc-05ffc246600b.
+[17:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 walked into fire whilst fighting Zombie
+[17:13:06] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-8038, y:128, z:-924] in the dimension 0
+[17:13:06] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
