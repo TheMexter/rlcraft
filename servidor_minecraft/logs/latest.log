@@ -4012,3 +4012,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [19:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
 [19:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
 [19:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[19:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 has made the advancement [Into Fire]
+[19:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was slain by Blaze
+[19:07:33] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-7109, y:60, z:444] in the dimension 0
+[19:07:33] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
+[19:07:36] [Thread-262/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for af7c12d2-04f9-393d-82dc-05ffc246600b.
+[19:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has made the advancement [Into Fire]
+[19:08:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was slain by Blaze
+[19:08:02] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-7109, y:60, z:442] in the dimension 0
+[19:08:02] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
+[19:12:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was slain by Zombie
+[19:12:32] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved

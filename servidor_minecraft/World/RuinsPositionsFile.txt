@@ -183,6 +183,7 @@
 -7317 70 70 -7302 81 81 Barn-ruined.tml
 -7313 98 374 -7306 102 381 TinyFarmField.tml
 -7296 63 -415 -7291 71 -410 PillarBase.tml
+-7286 64 613 -7278 73 621 LargeStoneTwoStoryHouse.tml
 -7278 67 174 -7274 73 177 StonePillar.tml
 -7277 101 493 -7266 129 504 FrozenTree.tml
 -7272 62 -488 -7265 66 -481 TinyFarmField.tml
