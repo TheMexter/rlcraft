@@ -162,9 +162,12 @@
 -7501 80 -761 -7486 127 -746 BattleBasementMedium.tml
 -7495 58 -192 -7484 68 -181 BridgePilings-lg2.tml
 -7493 66 273 -7489 71 279 VanillaVillageHut-r.tml
+-7491 101 573 -7485 107 579 SnowHouse2.tml
 -7491 63 178 -7486 66 185 Melonfield.tml
 -7458 69 -448 -7449 80 -443 VanillaVillageChurch-p.tml
 -7434 67 -1 -7429 75 4 PillarBase.tml
+-7433 103 494 -7428 115 499 FrozenBush.tml
+-7433 100 415 -7426 103 420 PumpkinField.tml
 -7429 68 -561 -7421 76 -550 MinersHut.tml
 -7421 69 147 -7418 73 150 StoneGrill.tml
 -7420 69 -79 -7415 74 -74 VanillaVillageLadder-p.tml
@@ -173,6 +176,7 @@
 -7405 68 226 -7397 78 234 TallTower.tml
 -7400 67 -293 -7385 78 -282 Barn-intact.tml
 -7390 65 -370 -7386 70 -364 VanillaVillageHut-r.tml
+-7348 101 455 -7342 107 461 SnowHouse1.tml
 -7343 62 -135 -7336 66 -128 TinyFarmField.tml
 -7339 65 -217 -7334 68 -210 PumpkinField.tml
 -7338 68 -24 -7331 75 -17 Outcrop.tml

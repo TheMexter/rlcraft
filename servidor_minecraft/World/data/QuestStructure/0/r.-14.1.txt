@@ -1,1 +1,2 @@
 AbandonedWoodTower,-7204,-7168,634,664
+PeacefulCrypt,-7266,-7250,577,601
