@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-22 05:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2025-07-22 04:43:31 +0000"
@@ -404,7 +410,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-22 04:36:52 +0000",
-      "cooked_mutton": "2025-07-22 03:03:13 +0000"
+      "cooked_mutton": "2025-07-22 03:03:13 +0000",
+      "cooked_beef": "2025-07-22 05:14:40 +0000"
     },
     "done": false
   },
@@ -666,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-07-22 05:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-22 03:02:18 +0000"
@@ -866,6 +879,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-07-22 03:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-22 05:08:40 +0000"
     },
     "done": true
   },
