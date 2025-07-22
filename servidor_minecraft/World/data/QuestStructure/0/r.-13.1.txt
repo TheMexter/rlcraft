@@ -1,0 +1,16 @@
+RLCraft_DecentWitch,-6730,-6730,756,756
+RLCraft_UndergroundRuin3,-6732,-6724,751,759
+StonePlantBoulder,-6706,-6696,866,876
+PeacefulCrypt,-6749,-6725,870,886
+MeteorSite,-6743,-6728,908,938
+ShrineSmallFire,-6719,-6709,957,967
+ClayWaterMound1,-6818,-6808,806,817
+RLCraft_PhilbosaurusRex,-6852,-6778,729,762
+WoodWallRemains,-6746,-6718,1014,1022
+Tree_Oak_TheMushroomOak_v3,-6877,-6827,658,717
+ClayWaterMound,-6889,-6881,767,774
+MysticalTree2,-6879,-6869,723,733
+SmallWoodenCottage1,-6902,-6896,668,679
+StonePlantMound3,-6909,-6900,754,765
+StonePlantMound3,-6901,-6892,923,934
+DinosaurSkull,-6900,-6889,633,652

@@ -1,0 +1,5 @@
+PeacefulCrypt,-6553,-6529,629,645
+StoneLeafMound,-6541,-6534,944,953
+MeteorSite,-6481,-6466,949,979
+StonePlantBoulder,-6461,-6451,887,897
+PirateChest,-6568,-6564,997,1001

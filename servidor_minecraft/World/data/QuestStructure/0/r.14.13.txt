@@ -1,0 +1,6 @@
+StonePlantMound,7665,7670,6903,6908
+StonePlantMound4,7614,7621,6831,6838
+WoodWallRemains,7610,7638,6948,6956
+StonePlantMound4,7626,7633,6702,6709
+RLCraft_DecentSkeleton,7592,7592,6937,6937
+RLCraft_UndergroundRuin3,7586,7594,6934,6942

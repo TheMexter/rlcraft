@@ -1,0 +1,5 @@
+RLCraft_DecentSkeleton,-2732,-2732,3830,3830
+RLCraft_UndergroundRuin2,-2737,-2727,3828,3835
+ClayWaterMound1,-2887,-2877,4046,4057
+StonePlantMound3,-2940,-2931,4031,4042
+StonePlantMound1,-3053,-3047,3897,3903

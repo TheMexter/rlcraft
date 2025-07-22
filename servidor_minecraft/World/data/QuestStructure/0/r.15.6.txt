@@ -1,0 +1,8 @@
+P_DesertTemple,8085,8135,3523,3572
+RLCraft_DecentWitch,8109,8109,3513,3513
+RLCraft_UndergroundRuin2,8104,8111,3508,3518
+RLCraft_SmallUndergroundSkeleton,8064,8072,3557,3565
+RLCraft_DecentWitch,8115,8115,3492,3492
+RLCraft_UndergroundRuin2,8110,8120,3490,3497
+RLCraft_DecentSpider,8051,8051,3533,3533
+RLCraft_UndergroundRuin3,8048,8056,3527,3535

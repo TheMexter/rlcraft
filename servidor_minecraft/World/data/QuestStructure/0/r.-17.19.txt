@@ -1,0 +1,8 @@
+P_Village2Story,-9215,-9209,9955,9968
+P_VillageFarmhouse,-9194,-9182,9975,9987
+VillageWoodMill,-9189,-9176,10006,10022
+ThreeTowers,-9164,-9133,9976,10008
+StonePlantMound1,-9131,-9125,10009,10015
+RLCraft_DecentSpider,-9127,-9127,10081,10081
+RLCraft_UndergroundRuin2,-9132,-9122,10076,10083
+StonePlantBoulder,-9113,-9103,10089,10099
