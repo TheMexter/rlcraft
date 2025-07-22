@@ -3684,3 +3684,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [16:32:28] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [16:32:28] [Server thread/INFO] [Meson ASM]: Patch result: true
 [16:32:28] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
+[16:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was shot by Skeleton
+[16:51:26] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-8034, y:131, z:-927] in the dimension 0
+[16:51:26] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
