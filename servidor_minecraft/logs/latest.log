@@ -4906,3 +4906,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:18:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
 [05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
 [05:21:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has made the advancement [Take Aim]
+[05:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[05:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[05:30:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[05:30:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[05:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was slain by Chupacabra  Lvl 2
+[05:32:40] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-7930, y:49, z:-604] in the dimension 0
+[05:32:40] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
+[05:32:42] [Thread-391/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for af7c12d2-04f9-393d-82dc-05ffc246600b.
+[05:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 has made the advancement [Monster Hunter]
+[05:37:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 has made the advancement [A Strange Grave's Dust]
