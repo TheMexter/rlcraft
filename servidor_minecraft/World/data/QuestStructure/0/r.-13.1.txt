@@ -30,3 +30,4 @@ StonePlantMound3,-7074,-7063,1017,1026
 RLCraft_DecentSkeleton,-6982,-6982,549,549
 RLCraft_UndergroundRuin2,-6984,-6977,544,554
 StoneBoulder,-6992,-6983,520,529
+StonePlantMound2,-7035,-7023,561,574

@@ -470,7 +470,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bred_sheep": "2025-07-22 04:44:52 +0000"
+      "bred_sheep": "2025-07-22 04:44:52 +0000",
+      "bred_cow": "2025-07-22 04:53:15 +0000"
     },
     "done": false
   },
@@ -1326,6 +1327,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-07-17 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-07-22 04:47:54 +0000"
     },
     "done": true
   },
