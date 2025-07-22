@@ -12,3 +12,6 @@ VillageWoodMill,-6386,-6373,662,678
 VillageTriplets,-6362,-6348,626,640
 RLCraft_BasicSpider,-6425,-6425,622,622
 RLCraft_UndergroundRuin1,-6428,-6419,619,628
+P_VillageFarmhouse,-6356,-6344,662,674
+SeasonsGreenhouse,-6360,-6350,685,697
+AbandonedWoodTower,-6370,-6334,861,891

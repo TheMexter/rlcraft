@@ -1,0 +1,11 @@
+StonePlantMound2,-6781,-6769,387,400
+StonePlantMound,-6679,-6674,340,345
+SmallWoodenCottage,-6796,-6785,328,336
+StonePlantMound,-6817,-6812,327,332
+StonePlantMound4,-6699,-6692,319,326
+StonePlantMound,-6898,-6893,491,496
+StonePlantMound,-6900,-6895,306,311
+StoneBoulder,-6871,-6862,288,297
+StonePlantMound3,-6870,-6861,240,251
+HobbitHole,-6894,-6797,238,310
+AbandonedWoodTower,-6975,-6945,429,465

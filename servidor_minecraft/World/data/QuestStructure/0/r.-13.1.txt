@@ -27,3 +27,6 @@ RLCraft_SmallUndergroundSkeleton,-6915,-6907,555,563
 DinosaurSkull,-6945,-6934,536,555
 StonePlantMound2,-7071,-7059,995,1008
 StonePlantMound3,-7074,-7063,1017,1026
+RLCraft_DecentSkeleton,-6982,-6982,549,549
+RLCraft_UndergroundRuin2,-6984,-6977,544,554
+StoneBoulder,-6992,-6983,520,529
