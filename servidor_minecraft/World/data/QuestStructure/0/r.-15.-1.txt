@@ -31,3 +31,4 @@ RLCraft_BasicSpider,-7732,-7732,-703,-703
 RLCraft_UndergroundRuin1,-7738,-7729,-706,-697
 UnnaturalCrater,-7778,-7738,-656,-616
 P_Crater,-7738,-7655,-1016,-940
+StoneLeafMound,-7708,-7699,-560,-553

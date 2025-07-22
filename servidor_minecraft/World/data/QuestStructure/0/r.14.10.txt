@@ -1,0 +1,6 @@
+StonePlantMound2,7462,7475,5593,5605
+StonePlantMound,7487,7492,5591,5596
+StonePlantMound,7595,7600,5592,5597
+StonePlantMound1,7384,7390,5533,5539
+RLCraft_DecentZombie,7565,7565,5499,5499
+RLCraft_UndergroundRuin3,7563,7571,5494,5502

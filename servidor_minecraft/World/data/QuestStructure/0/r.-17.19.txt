@@ -14,3 +14,6 @@ RLCraft_DecentZombie,-9088,-9088,10204,10204
 RLCraft_UndergroundRuin3,-9093,-9085,10198,10206
 StonePlantMound2,-8875,-8862,9812,9824
 MeteorSite,-9121,-9106,9760,9790
+StonePlantMound1,-9083,-9077,9753,9759
+StonePlantMound3,-9066,-9057,9756,9767
+StonePlantBoulder,-9115,-9105,9728,9738

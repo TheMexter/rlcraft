@@ -189,3 +189,4 @@ PyramidMazeStairCorridor,-7604,-7602,-911,-906
 PyramidMazePath,-7604,-7602,-914,-912
 PyramidMazePath,-7604,-7602,-917,-915
 PyramidMazePagoda,-7649,-7602,-926,-879
+RLCraft_Airtes,-7625,-7610,-649,-634

@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/the_ravager": {
+    "criteria": {
+      "has_material": "2025-07-22 03:24:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-07-22 02:54:14 +0000"
@@ -131,9 +137,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-22 03:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-07-22 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-22 02:58:16 +0000"
     },
     "done": true
   },
@@ -152,6 +170,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-07-22 02:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-22 03:01:01 +0000"
     },
     "done": true
   },
@@ -248,6 +272,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-07-17 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_axe": {
+    "criteria": {
+      "has_material": "2025-07-22 03:24:49 +0000"
     },
     "done": true
   },
@@ -389,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-22 03:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 02:33:18 +0000"
@@ -404,6 +440,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_shovel": {
+    "criteria": {
+      "has_material": "2025-07-22 03:24:49 +0000"
     },
     "done": true
   },
@@ -455,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-22 02:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:17:17 +0000"
@@ -491,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-22 03:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2025-07-22 02:28:03 +0000"
@@ -521,9 +575,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-07-22 02:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2025-07-22 03:24:49 +0000"
     },
     "done": true
   },
@@ -539,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-22 02:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-07-22 02:53:07 +0000"
@@ -548,6 +620,18 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-07-22 03:24:10 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_stone": {
+    "criteria": {
+      "has_material": "2025-07-22 03:24:49 +0000"
     },
     "done": true
   },
@@ -566,6 +650,18 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-07-22 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/season_clock": {
+    "criteria": {
+      "has_redstone": "2025-07-22 02:59:27 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_pickaxe": {
+    "criteria": {
+      "has_material": "2025-07-22 03:24:49 +0000"
     },
     "done": true
   },
@@ -607,9 +703,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-07-22 03:04:44 +0000",
       "birch_forest": "2025-07-22 02:20:09 +0000",
+      "deep_ocean": "2025-07-22 03:16:37 +0000",
+      "extreme_hills_with_trees": "2025-07-22 03:21:00 +0000",
+      "forest_hills": "2025-07-22 03:25:23 +0000",
+      "birch_forest_hills": "2025-07-22 03:04:33 +0000",
       "ocean": "2025-07-17 22:28:32 +0000",
-      "river": "2025-07-22 02:20:04 +0000"
+      "extreme_hills": "2025-07-22 03:06:10 +0000",
+      "river": "2025-07-22 02:20:04 +0000",
+      "stone_beach": "2025-07-22 03:11:07 +0000"
     },
     "done": false
   },
@@ -652,6 +755,12 @@
   "tombstone:tutorial/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-07-22 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-22 02:59:27 +0000"
     },
     "done": true
   },
@@ -799,6 +908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-22 02:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-07-17 22:28:32 +0000"
@@ -817,15 +932,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-07-22 03:24:10 +0000"
+    },
+    "done": false
+  },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2025-07-22 02:33:24 +0000"
     },
     "done": true
   },
+  "defiledlands:recipes/misc/idol_sorrow": {
+    "criteria": {
+      "has_material": "2025-07-22 03:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-07-22 02:59:27 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2025-07-22 02:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-22 02:59:27 +0000"
     },
     "done": true
   },
@@ -850,6 +989,12 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-07-22 02:27:23 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2025-07-22 03:24:49 +0000"
     },
     "done": true
   },
@@ -883,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-22 03:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-07-22 02:25:38 +0000"
@@ -898,6 +1049,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-07-22 03:18:42 +0000"
     },
     "done": true
   },

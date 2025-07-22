@@ -29,3 +29,17 @@ RLCraft_DecentSkeleton,7990,7990,6326,6326
 RLCraft_UndergroundRuin2,7985,7992,6321,6331
 OldWatchtower,7833,7845,6311,6324
 AbandonedWoodTower,8123,8153,6613,6649
+RLCraft_SmallUndergroundSkeleton,7951,7959,6278,6286
+SmallOutpost,7919,7941,6272,6302
+StoneLeafMound,7738,7745,6318,6327
+StoneBoulder,7689,7698,6295,6304
+RLCraft_BasicZombie,7940,7940,6236,6236
+RLCraft_UndergroundRuin1,7937,7946,6233,6242
+StonePlantMound2,7688,7701,6202,6214
+StonePlantMound1,7728,7734,6202,6208
+StonePlantMound,7933,7938,6205,6210
+StonePlantMound4,7887,7894,6176,6183
+SmallFortRuins,7796,7828,6140,6170
+StonePlantMound3,7889,7898,6139,6150
+ShrineSmallFire,8004,8014,6151,6161
+RLCraft_LargeUndergroundTown,7981,8118,6158,6271

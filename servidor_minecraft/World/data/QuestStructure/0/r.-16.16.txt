@@ -1,0 +1,6 @@
+StoneBoulder,-8471,-8462,8699,8708
+StoneBoulder,-8584,-8575,8679,8688
+StoneLeafMound,-8493,-8486,8671,8680
+ShrineSmallFire,-8528,-8518,8668,8678
+StonePlantBoulder,-8423,-8413,8632,8642
+StonePlantMound,-8438,-8433,8638,8643

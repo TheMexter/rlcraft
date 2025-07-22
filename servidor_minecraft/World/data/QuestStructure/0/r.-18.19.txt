@@ -19,3 +19,5 @@ DinosaurSkull,-9484,-9465,9861,9872
 StonePlantBoulder,-9354,-9344,9809,9819
 RLCraft_BasicCaveSpider,-9304,-9304,9805,9805
 RLCraft_UndergroundRuin1,-9307,-9298,9802,9811
+StonePlantMound,-9300,-9295,9762,9767
+StonePlantMound3,-9336,-9325,9732,9741

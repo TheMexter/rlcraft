@@ -1,1 +1,3 @@
 RLCraft_SmallUndergroundSkeleton,8225,8233,6435,6443
+RLCraft_DecentCaveSpider,8222,8222,6353,6353
+RLCraft_UndergroundRuin2,8217,8227,6348,6355

@@ -1,0 +1,6 @@
+SmallAbandonedMine,-8635,-8610,9456,9471
+RLCraft_DecentSpider,-8596,-8596,9360,9360
+RLCraft_UndergroundRuin3,-8598,-8590,9355,9363
+RLCraft_DecentZombie,-8575,-8575,9406,9406
+RLCraft_UndergroundRuin2,-8580,-8570,9404,9411
+UndergroundCultChamber,-8440,-8398,9217,9249
