@@ -3700,3 +3700,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:31:49] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [21:31:49] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [21:31:49] [Server thread/INFO] [Meson ASM]: Patch result: true
+[21:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann has reached the goal [Strong or Careful]
+[21:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann was slain by Slime
+[21:34:39] [Server thread/INFO] [tombstone]: The last known grave of IImariann is at location [name:Last Grave, x:-6793, y:62, z:753] in the dimension 0
+[21:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann has made the advancement [Your First Grave]
+[21:34:39] [Server thread/INFO] [tombstone]: IImariann has successfully been saved
+[21:40:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann has made the advancement [A Cut Above the Rest]
