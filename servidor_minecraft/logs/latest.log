@@ -4962,3 +4962,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:08:36] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player TheMexter
 [06:08:36] [Server thread/INFO] [XAT]: Syncing Config to TheMexter
 [06:08:36] [Thread-446/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 39fa1cb7-1fb1-314e-b3e8-1e35d66dfae7.
+[06:10:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has reached the goal [Strong or Careful]
+[06:10:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter was slain by Aglebemu  Lvl 2
+[06:10:42] [Server thread/INFO] [tombstone]: The last known grave of TheMexter is at location [name:Last Grave, x:-6791, y:62, z:744] in the dimension 0
+[06:10:42] [Server thread/INFO] [tombstone]: TheMexter has successfully been saved
+[06:17:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <strikewolf1908> zzzz
+[06:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <strikewolf1908> zzzz

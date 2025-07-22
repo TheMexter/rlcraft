@@ -1262,6 +1262,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-22 06:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2025-07-22 02:54:14 +0000"
