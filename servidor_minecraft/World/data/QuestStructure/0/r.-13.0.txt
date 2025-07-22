@@ -21,3 +21,12 @@ StonePlantMound2,-7172,-7159,406,418
 StonePlantMound,-7086,-7081,225,230
 StonePlantMound3,-7160,-7151,199,210
 StoneBoulder,-7140,-7131,102,111
+RLCraft_SmallUndergroundSkeleton,-7025,-7017,74,82
+StonePlantMound1,-7096,-7090,-8,-2
+StonePlantMound2,-6994,-6982,-79,-66
+StoneLeafMound,-7161,-7152,-94,-87
+StoneBoulder,-7084,-7075,-184,-175
+RLCraft_DecentZombie,-7112,-7112,-228,-228
+RLCraft_UndergroundRuin2,-7117,-7110,-233,-223
+StonePlantBoulder,-7133,-7123,-278,-268
+StonePlantMound,-7115,-7110,-325,-320

@@ -3957,3 +3957,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:02:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter was turned into KFC by a dragon
 [18:02:40] [Server thread/INFO] [tombstone]: The last known grave of TheMexter is at location [name:Last Grave, x:-7113, y:69, z:297] in the dimension 0
 [18:02:40] [Server thread/INFO] [tombstone]: TheMexter has successfully been saved
+[18:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <strikewolf1908> -6812/745
+[18:08:04] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -459 and chunkZ 0...
+[18:08:05] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_cave at {"x": -7334, "y": 0, "z": -29}...
+[18:08:07] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_cave at {"x": -7334, "y": 0, "z": -29}.
+[18:08:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: strikewolf1908 moved too quickly! 10.163334732049407,0.0,-0.10352909014852685
+[18:08:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3016ms behind, skipping 60 tick(s)
+[18:09:06] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -7128 | -312 ], underground: false
+[18:10:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TheMexter moved too quickly! -4.6868075705660885,1.16610931183763,-9.121649892736059
+[18:10:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: strikewolf1908 moved too quickly! -10.049428224565418,0.9286078763452394,1.5476461702606912
+[18:10:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3472ms behind, skipping 69 tick(s)
+[18:10:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[18:10:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[18:10:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[18:10:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[18:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
