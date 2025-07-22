@@ -1,0 +1,2 @@
+StoneBoulder,-6572,-6563,1054,1063
+RLCraft_SmallUndergroundSkeleton,-6519,-6511,1024,1032

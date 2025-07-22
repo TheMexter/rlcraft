@@ -111,12 +111,16 @@
 -7680 74 -555 -7672 84 -547 LargeStoneHouseWBasement.tml
 -7652 128 -804 -7649 132 -802 SkeletonHeadStatue.tml
 -7625 76 -925 -7621 78 -921 EmeraldOreOutcrop.tml
+-7088 72 1144 -7080 78 1152 LargeStoneHouse.tml
 -7076 66 859 -7061 74 868 Archway.tml
 -7075 62 626 -7069 68 634 StoneHouse.tml
 -7074 67 741 -7066 73 749 ShortTower.tml
 -7070 61 952 -7065 69 957 PillarBase.tml
+-7046 61 1022 -7039 70 1029 BridgePilings-small_river.tml
 -6997 67 644 -6994 73 648 StonePillar.tml
 -6993 28 893 -6985 37 901 LargeStoneTwoStoryHouse.tml
+-6982 70 1101 -6978 72 1105 EmeraldOreOutcrop.tml
+-6967 75 1006 -6964 79 1008 SkeletonHeadStatue.tml
 -6948 66 571 -6941 73 578 Outcrop.tml
 -6944 67 744 -6939 71 749 CaveSpiderBurrow.tml
 -6938 62 815 -6933 67 822 ZombieHut.tml
@@ -125,6 +129,7 @@
 -6868 68 849 -6851 101 866 SpiralTree.tml
 -6809 62 700 -6806 66 702 SkeletonHeadStatue.tml
 -6808 78 969 -6799 81 978 RuinedSmallFountainDiagonal.tml
+-6793 69 1098 -6785 75 1106 ShortTower.tml
 -6782 75 871 -6775 82 878 Outcrop.tml
 -6779 64 610 -6771 74 618 LargeStoneHouseWBasement.tml
 -6775 62 780 -6769 79 786 VanillaVillageWell-p.tml
@@ -140,7 +145,10 @@
 -6559 63 895 -6548 74 904 ArrowTrapTomb.tml
 -6515 71 565 -6503 116 577 TowerHard.tml
 -6502 74 664 -6498 80 667 StonePillar.tml
+-6485 71 1034 -6481 73 1038 EmeraldOreOutcrop.tml
 -6469 70 856 -6463 75 860 VanillaVillageHut-r.tml
+-6408 72 733 -6398 82 745 Piston-LavaTrap.tml
+-6391 66 904 -6388 70 906 SkeletonHeadStatue.tml
 -4997 63 -7007 -4966 103 -6977 CastleOcean.tml
 -4994 63 -6976 -4963 103 -6946 CastleOcean.tml
 -4987 63 -6697 -4957 106 -6667 SkyCastle.tml
