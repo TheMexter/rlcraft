@@ -254,7 +254,9 @@
 -6469 70 856 -6463 75 860 VanillaVillageHut-r.tml
 -6408 72 733 -6398 82 745 Piston-LavaTrap.tml
 -6391 66 904 -6388 70 906 SkeletonHeadStatue.tml
+-6385 76 527 -6376 79 536 RuinedSmallFountainDiagonal.tml
 -6365 62 629 -6363 66 632 SkeletonHeadStatue.tml
+-6362 66 398 -6354 75 406 LargeStoneTwoStoryHouse.tml
 -4997 63 -7007 -4966 103 -6977 CastleOcean.tml
 -4994 63 -6976 -4963 103 -6946 CastleOcean.tml
 -4987 63 -6697 -4957 106 -6667 SkyCastle.tml

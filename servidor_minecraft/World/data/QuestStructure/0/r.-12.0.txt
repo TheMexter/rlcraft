@@ -1,1 +1,3 @@
 StonePlantMound4,-6628,-6621,259,266
+RLCraft_DecentZombie,-6413,-6413,450,450
+RLCraft_UndergroundRuin3,-6416,-6408,444,452

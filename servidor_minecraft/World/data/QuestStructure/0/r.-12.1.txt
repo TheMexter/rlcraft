@@ -15,3 +15,7 @@ RLCraft_UndergroundRuin1,-6428,-6419,619,628
 P_VillageFarmhouse,-6356,-6344,662,674
 SeasonsGreenhouse,-6360,-6350,685,697
 AbandonedWoodTower,-6370,-6334,861,891
+VillageMarketplace,-6334,-6320,592,606
+VillageMarketplace,-6334,-6320,592,606
+P_VillageInn,-6332,-6323,631,642
+VillageLargeLibrary,-6332,-6313,664,684
