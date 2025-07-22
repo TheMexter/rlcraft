@@ -744,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-22 05:19:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-07-22 04:46:49 +0000"
