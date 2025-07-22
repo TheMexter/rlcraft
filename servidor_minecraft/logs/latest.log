@@ -3758,3 +3758,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:22:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann was slain by Lux Wraamon  Lvl 3
 [22:22:06] [Server thread/INFO] [tombstone]: The last known grave of IImariann is at location [name:Last Grave, x:-6792, y:40, z:790] in the dimension 0
 [22:22:06] [Server thread/INFO] [tombstone]: IImariann has successfully been saved
+[22:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann experienced kinetic energy
+[22:49:12] [Server thread/INFO] [tombstone]: The last known grave of IImariann is at location [name:Last Grave, x:-6806, y:63, z:742] in the dimension 0
+[22:49:12] [Server thread/INFO] [tombstone]: Failed to move the wearable backpack
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: java.lang.NullPointerException
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at ovh.corail.tombstone.helper.Location.<init>(Location.java:24)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at ovh.corail.tombstone.helper.SpawnHelper.result(SpawnHelper.java:104)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at ovh.corail.tombstone.helper.SpawnHelper.findSafePlace(SpawnHelper.java:114)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks.lambda$checkWearableBackPacks$2(CompatibilityWearableBackpacks.java:50)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at java.util.Optional.ifPresent(Optional.java:159)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks.checkWearableBackPacks(CompatibilityWearableBackpacks.java:38)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at ovh.corail.tombstone.helper.DeathHandler.handleLoot(DeathHandler.java:348)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at ovh.corail.tombstone.event.EventHandler.onDrops(EventHandler.java:567)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_44_EventHandler_onDrops_PlayerDropsEvent.invoke(.dynamic)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.entity.player.EntityPlayerMP.func_70645_a(EntityPlayerMP.java:510)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.entity.EntityLivingBase.func_70097_a(EntityLivingBase.java:1023)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.entity.player.EntityPlayer.func_70097_a(EntityPlayer.java:1038)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.entity.player.EntityPlayerMP.func_70097_a(EntityPlayerMP.java:645)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at collision.packets.PacketCollisionS$CollisionMessageHandler.lambda$onMessage$0(PacketCollisionS.java:58)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.util.Util.func_181617_a(SourceFile:46)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[22:49:12] [Server thread/INFO] [STDERR]: [ovh.corail.tombstone.compatibility.CompatibilityWearableBackpacks:checkWearableBackPacks:60]: 	at java.lang.Thread.run(Thread.java:750)
+[22:49:12] [Server thread/INFO] [tombstone]: IImariann has successfully been saved
+[22:49:14] [Thread-152/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 3d0a6331-557b-3147-a242-9e68f47d4537.
+[22:52:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann has made the advancement [Isn't It Iron Pick]
