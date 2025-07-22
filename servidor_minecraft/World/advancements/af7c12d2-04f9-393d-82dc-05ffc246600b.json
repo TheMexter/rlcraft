@@ -270,7 +270,8 @@
       "cooked_beef": "2025-07-22 05:14:40 +0000",
       "raw_salmon": "2025-07-22 06:42:49 +0000",
       "raw_cod": "2025-07-22 06:46:24 +0000",
-      "cooked_rabbit": "2025-07-22 06:50:05 +0000"
+      "cooked_rabbit": "2025-07-22 06:50:05 +0000",
+      "cooked_salmon": "2025-07-22 18:28:24 +0000"
     },
     "done": false
   },
@@ -433,6 +434,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 04:18:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-22 18:29:42 +0000"
     },
     "done": true
   },
@@ -613,6 +620,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-22 02:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-22 18:31:54 +0000"
     },
     "done": true
   },
@@ -895,6 +908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-22 18:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-07-22 04:07:07 +0000"
@@ -1027,6 +1046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-22 18:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-22 03:35:51 +0000"
@@ -1048,6 +1073,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-07-22 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "reskillable:main/attack_5": {
+    "criteria": {
+      "level_up": "2025-07-22 18:35:13 +0000"
     },
     "done": true
   },
@@ -1219,6 +1250,7 @@
       "deep_ocean": "2025-07-22 02:45:00 +0000",
       "beaches": "2025-07-22 02:44:20 +0000",
       "plains": "2025-07-22 02:48:30 +0000",
+      "taiga_hills": "2025-07-22 18:35:18 +0000",
       "ocean": "2025-07-22 02:44:03 +0000",
       "river": "2025-07-22 02:47:13 +0000"
     },

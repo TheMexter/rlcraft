@@ -2,3 +2,8 @@ RLCraft_DecentWitch,-7815,-7815,-410,-410
 RLCraft_UndergroundRuin2,-7817,-7810,-415,-405
 StoneLeafMound,-7771,-7762,-413,-406
 StonePlantMound2,-7695,-7682,-339,-327
+StonePlantMound1,-7824,-7818,-294,-288
+StonePlantMound,-7853,-7848,-253,-248
+RLCraft_SmallTown,-8012,-7941,-170,-95
+StonePlantBoulder,-8167,-8157,-311,-301
+SmallWoodenCottage,-8164,-8156,-366,-355
