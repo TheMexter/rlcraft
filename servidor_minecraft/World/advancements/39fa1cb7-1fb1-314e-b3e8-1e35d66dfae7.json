@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-22 02:28:03 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-22 02:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -299,6 +311,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-22 06:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 02:33:18 +0000"
@@ -351,6 +375,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/tears_shulker": {
+    "criteria": {
+      "has_material": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -435,6 +465,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -625,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-22 02:19:31 +0000"
@@ -736,6 +778,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "slime": "2025-07-22 04:18:15 +0000",
+      "skeleton": "2025-07-22 06:20:46 +0000",
       "zombie": "2025-07-22 03:24:10 +0000"
     },
     "done": false
@@ -749,6 +792,12 @@
   "defiledlands:recipes/misc/idol_sorrow": {
     "criteria": {
       "has_material": "2025-07-22 03:24:49 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/tears_flame": {
+    "criteria": {
+      "has_material": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -854,6 +903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-22 02:18:08 +0000"
@@ -863,6 +918,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-07-22 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/remorseful_gem": {
+    "criteria": {
+      "has_material": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -887,6 +948,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-07-22 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -992,9 +1059,21 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:gold_spear": {
+    "criteria": {
+      "has_gold": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 04:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -1046,6 +1125,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:gold_hammer": {
+    "criteria": {
+      "has_gold": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:17:17 +0000"
@@ -1076,9 +1161,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -1172,6 +1269,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:gold_battleaxe": {
+    "criteria": {
+      "has_gold": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-07-22 05:20:47 +0000"
@@ -1235,6 +1338,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie": "2025-07-22 03:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },
@@ -1384,6 +1493,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:gold_nunchaku": {
+    "criteria": {
+      "has_gold": "2025-07-22 06:21:02 +0000"
+    },
+    "done": true
+  },
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2025-07-22 02:32:53 +0000"
@@ -1459,6 +1574,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-22 02:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 06:21:02 +0000"
     },
     "done": true
   },

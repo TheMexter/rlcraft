@@ -4968,3 +4968,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:10:42] [Server thread/INFO] [tombstone]: TheMexter has successfully been saved
 [06:17:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <strikewolf1908> zzzz
 [06:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <strikewolf1908> zzzz
+[06:23:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TheMexter lost connection: Disconnected
+[06:23:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter left the game

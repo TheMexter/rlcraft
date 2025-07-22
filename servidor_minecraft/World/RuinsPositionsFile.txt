@@ -92,6 +92,7 @@
 -8055 50 -835 -8044 61 -799 SunkenShip-v3.tml
 -8054 63 -939 -8024 106 -909 SkyCastle.tml
 -8043 63 -606 -8013 103 -575 CastleOcean.tml
+-7977 63 -391 -7947 100 -361 PirateShip.tml
 -7967 61 -751 -7962 69 -746 PillarBase.tml
 -7967 63 -1026 -7955 104 -1014 BaloonLow.tml
 -7948 70 -603 -7935 79 -590 VolcanicVent.tml
@@ -101,6 +102,7 @@
 -7886 68 -757 -7878 78 -749 TallTower.tml
 -7859 66 -650 -7851 72 -642 LargeStoneHouse.tml
 -7858 62 -1008 -7846 84 -996 BaloonVeryLow.tml
+-7842 70 -354 -7839 74 -352 SkeletonHeadStatue.tml
 -7828 63 -894 -7822 76 -887 TP_FishingShack.tml
 -7805 89 -449 -7802 93 -446 StoneGrill.tml
 -7803 66 -807 -7799 74 -803 SmallWell.tml
