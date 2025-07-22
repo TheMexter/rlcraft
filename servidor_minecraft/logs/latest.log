@@ -3977,3 +3977,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:34:41] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -7992 | -184 ], underground: false
 [18:35:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 has made the advancement [Attack!]
 [18:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has made the advancement [Best Friends Forever]
+[18:36:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter was freezer burned!
+[18:36:11] [Server thread/INFO] [tombstone]: The last known grave of TheMexter is at location [name:Last Grave, x:-8034, y:69, z:-200] in the dimension 0
+[18:36:11] [Server thread/INFO] [tombstone]: TheMexter has successfully been saved
+[18:36:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has made the advancement [The Most Useful Key]
+[18:36:13] [Thread-219/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 39fa1cb7-1fb1-314e-b3e8-1e35d66dfae7.
+[18:36:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has reached the goal [A Fast Comeback]
+[18:36:43] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -510 and chunkZ 0...
+[18:36:43] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -8085, "y": 0, "z": -140}...
+[18:36:44] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -8085, "y": 0, "z": -140}.
+[18:36:44] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[18:36:44] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[18:40:38] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -7928 | 200 ], underground: true
+[18:42:21] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:42:21] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:42:21] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:42:21] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:42:28] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:42:28] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:43:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:43:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:43:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:43:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:43:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:43:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:43:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:43:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:44:10] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:44:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:45:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3563ms behind, skipping 71 tick(s)
