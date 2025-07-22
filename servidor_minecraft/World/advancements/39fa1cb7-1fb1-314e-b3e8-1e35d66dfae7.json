@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-22 18:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-07-22 02:19:31 +0000"
@@ -535,6 +541,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2025-07-22 18:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-07-22 02:19:17 +0000"
@@ -556,6 +568,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-07-22 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-22 18:22:43 +0000"
     },
     "done": true
   },
@@ -727,6 +745,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-22 18:22:26 +0000",
+      "has_red_mushroom": "2025-07-22 18:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:17:17 +0000"
@@ -888,6 +913,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2025-07-22 18:22:43 +0000"
     },
     "done": true
   },
@@ -1053,6 +1084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-22 18:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-07-22 02:26:58 +0000"
@@ -1068,6 +1105,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 04:21:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "craft": "2025-07-22 18:24:13 +0000"
     },
     "done": true
   },
@@ -1239,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-22 18:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 02:33:18 +0000"
@@ -1377,6 +1426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-22 18:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2025-07-22 02:54:14 +0000"
@@ -1394,6 +1449,7 @@
       "forest_hills": "2025-07-22 03:25:23 +0000",
       "jungle_hills": "2025-07-22 03:32:50 +0000",
       "jungle_edge": "2025-07-22 03:32:10 +0000",
+      "plains": "2025-07-22 18:17:06 +0000",
       "birch_forest_hills": "2025-07-22 03:04:33 +0000",
       "ocean": "2025-07-17 22:28:32 +0000",
       "extreme_hills": "2025-07-22 03:06:10 +0000",
@@ -1454,6 +1510,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 04:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-22 18:22:43 +0000"
     },
     "done": true
   },
@@ -1541,6 +1603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-22 18:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-07-22 02:19:17 +0000"
@@ -1568,6 +1636,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_sheep": "2025-07-22 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-07-22 18:22:43 +0000"
     },
     "done": true
   },
