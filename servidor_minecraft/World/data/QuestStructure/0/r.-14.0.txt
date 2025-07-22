@@ -430,3 +430,9 @@ PyramidMazePath,-7465,-7463,324,326
 PyramidMazePath,-7462,-7460,324,326
 PyramidMazePath,-7447,-7445,336,338
 PyramidMazePagoda,-7477,-7430,303,350
+RLCraft_DecentZombie,-7480,-7480,57,57
+RLCraft_UndergroundRuin2,-7485,-7478,52,62
+ShrineSmallAir,-7626,-7618,-70,-62
+RLCraft_SmallUndergroundSkeleton,-7413,-7405,104,112
+ChurchGraveyardRuins,-7439,-7392,222,265
+StonePlantMound4,-7362,-7355,321,328

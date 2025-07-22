@@ -139,6 +139,7 @@
 -7706 70 -474 -7701 78 -469 PillarBase.tml
 -7702 79 -912 -7694 89 -904 LargeStoneHouseWBasement.tml
 -7692 58 -399 -7685 68 -392 BridgePilings-sm2.tml
+-7691 81 -59 -7683 87 -51 ShortTower.tml
 -7687 87 -635 -7679 93 -627 ShortTower.tml
 -7680 74 -555 -7672 84 -547 LargeStoneHouseWBasement.tml
 -7652 63 294 -7644 73 302 LargeStoneHouseWBasement.tml
@@ -147,6 +148,7 @@
 -7648 79 76 -7644 81 80 EmeraldOreOutcrop.tml
 -7635 74 419 -7631 80 422 StonePillar.tml
 -7625 76 -925 -7621 78 -921 EmeraldOreOutcrop.tml
+-7608 67 -30 -7602 84 -24 VanillaVillageWell-p.tml
 -7581 90 -839 -7568 99 -826 VolcanicVent.tml
 -7575 63 -360 -7570 66 -353 Melonfield.tml
 -7568 69 63 -7559 84 72 MoaiHead.tml
@@ -154,6 +156,7 @@
 -7564 64 182 -7556 70 188 StoneHouse.tml
 -7550 85 -473 -7542 91 -465 LargeStoneHouse.tml
 -7539 102 424 -7535 104 428 EmeraldOreOutcrop.tml
+-7534 81 -94 -7525 89 -84 GuardHouse.tml
 -7504 81 -326 -7500 89 -322 SmallWell.tml
 -7502 62 -616 -7495 65 -611 PumpkinField.tml
 -7501 80 -761 -7486 127 -746 BattleBasementMedium.tml
@@ -163,8 +166,11 @@
 -7458 69 -448 -7449 80 -443 VanillaVillageChurch-p.tml
 -7434 67 -1 -7429 75 4 PillarBase.tml
 -7429 68 -561 -7421 76 -550 MinersHut.tml
+-7421 69 147 -7418 73 150 StoneGrill.tml
 -7420 69 -79 -7415 74 -74 VanillaVillageLadder-p.tml
 -7416 67 -215 -7412 73 -212 StonePillar.tml
+-7414 66 303 -7409 77 312 VanillaVillageChurch-p.tml
+-7405 68 226 -7397 78 234 TallTower.tml
 -7400 67 -293 -7385 78 -282 Barn-intact.tml
 -7390 65 -370 -7386 70 -364 VanillaVillageHut-r.tml
 -7343 62 -135 -7336 66 -128 TinyFarmField.tml
