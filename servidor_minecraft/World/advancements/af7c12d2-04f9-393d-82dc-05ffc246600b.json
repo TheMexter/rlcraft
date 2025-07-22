@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "spartanweaponry:quiver_light": {
+    "criteria": {
+      "quiver_arrow": "2025-07-22 04:59:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/chain_death": {
     "criteria": {
       "coded_trigger": "2025-07-22 03:08:14 +0000"
