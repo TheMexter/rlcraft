@@ -1,0 +1,7 @@
+RLCraft_DecentSkeleton,6869,6869,5102,5102
+RLCraft_UndergroundRuin2,6864,6874,5100,5107
+DinosaurSkeleton,7033,7042,5066,5112
+RLCraft_SmallTown,6807,6878,4978,5053
+P_WitchDungeon,6924,6941,5053,5087
+TribalJungleHead,6817,6827,4918,4928
+StoneBoulder,7135,7144,5083,5092

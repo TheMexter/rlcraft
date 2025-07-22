@@ -4305,3 +4305,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:24:56] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 459 and chunkZ 357...
 [03:24:56] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_mountain_builtin_custom_loot at {"x": 7605, "y": 0, "z": 5917}...
 [03:24:57] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_mountain_builtin_custom_loot at {"x": 7605, "y": 0, "z": 5917}.
+[03:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:30:56] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:30:56] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_984_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[03:31:46] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[03:31:46] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=6744, y=41, z=5192}
+[03:32:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2074ms behind, skipping 41 tick(s)
+[03:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 has made the advancement [Stone Age]
+[03:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was burnt to a crisp whilst fighting Afrit
+[03:33:57] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-7911, y:62, z:-584] in the dimension 0
+[03:33:57] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
+[03:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has made the advancement [Magic Writing]
+[03:37:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has made the advancement [Suit Up]
+[03:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: strikewolf1908 was pummeled by Afrit
+[03:38:06] [Server thread/INFO] [tombstone]: The last known grave of strikewolf1908 is at location [name:Last Grave, x:-7918, y:63, z:-581] in the dimension 0
+[03:38:06] [Server thread/INFO] [tombstone]: strikewolf1908 has successfully been saved
+[03:38:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <strikewolf1908> zzzz
+[03:38:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <strikewolf1908> zz
+[03:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[03:39:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has made the advancement [Diamonds!]

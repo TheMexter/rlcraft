@@ -4,3 +4,4 @@ StonePlantMound,7595,7600,5592,5597
 StonePlantMound1,7384,7390,5533,5539
 RLCraft_DecentZombie,7565,7565,5499,5499
 RLCraft_UndergroundRuin3,7563,7571,5494,5502
+ShrineSmallAir,7357,7365,5397,5405
