@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-23 02:15:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-22 02:35:26 +0000"
@@ -415,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-23 02:15:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-22 02:26:06 +0000"
@@ -490,6 +502,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-22 02:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-07-23 02:17:56 +0000"
     },
     "done": true
   },
@@ -694,6 +712,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-22 02:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-07-23 02:17:56 +0000"
     },
     "done": true
   },
@@ -994,6 +1018,12 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-07-22 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-23 02:17:56 +0000"
     },
     "done": true
   },
