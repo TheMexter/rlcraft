@@ -19,3 +19,6 @@ VillageMarketplace,-6334,-6320,592,606
 VillageMarketplace,-6334,-6320,592,606
 P_VillageInn,-6332,-6323,631,642
 VillageLargeLibrary,-6332,-6313,664,684
+SmallAbandonedMine,-6262,-6237,512,527
+SmallWoodenCottage2,-6237,-6229,543,551
+SmallFortRuins,-6226,-6194,562,592

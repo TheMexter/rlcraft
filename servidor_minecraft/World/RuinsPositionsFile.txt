@@ -248,6 +248,7 @@
 -6571 60 797 -6552 103 824 Guardian.tml
 -6562 63 972 -6555 67 979 TinyFarmField.tml
 -6559 63 895 -6548 74 904 ArrowTrapTomb.tml
+-6537 65 356 -6533 73 360 SmallWell.tml
 -6515 71 565 -6503 116 577 TowerHard.tml
 -6502 74 664 -6498 80 667 StonePillar.tml
 -6485 71 1034 -6481 73 1038 EmeraldOreOutcrop.tml
@@ -257,6 +258,9 @@
 -6385 76 527 -6376 79 536 RuinedSmallFountainDiagonal.tml
 -6365 62 629 -6363 66 632 SkeletonHeadStatue.tml
 -6362 66 398 -6354 75 406 LargeStoneTwoStoryHouse.tml
+-6289 74 578 -6279 83 590 StoneHouseMruined.tml
+-6261 59 667 -6250 69 678 BridgePilings-lg2.tml
+-6249 87 497 -6242 91 504 TinyFarmField.tml
 -4997 63 -7007 -4966 103 -6977 CastleOcean.tml
 -4994 63 -6976 -4963 103 -6946 CastleOcean.tml
 -4987 63 -6697 -4957 106 -6667 SkyCastle.tml

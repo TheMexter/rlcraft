@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "wolfarmor:husbandry/armor_up": {
+    "criteria": {
+      "wolf_equipped": "2025-07-23 00:10:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-22 02:28:50 +0000"

@@ -2,3 +2,6 @@ StonePlantMound4,-6628,-6621,259,266
 RLCraft_DecentZombie,-6413,-6413,450,450
 RLCraft_UndergroundRuin3,-6416,-6408,444,452
 StonePlantMound2,-6338,-6325,373,385
+StonePlantMound3,-6500,-6489,348,357
+StoneLeafMound,-6389,-6380,351,358
+ChurchGraveyardRuins,-6295,-6248,465,508
