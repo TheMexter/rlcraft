@@ -261,9 +261,13 @@
 -6289 74 578 -6279 83 590 StoneHouseMruined.tml
 -6261 59 667 -6250 69 678 BridgePilings-lg2.tml
 -6254 72 826 -6247 79 833 Outcrop.tml
+-6253 66 345 -6245 76 353 TallTower.tml
 -6249 87 497 -6242 91 504 TinyFarmField.tml
 -6168 77 600 -6160 83 608 LargeStoneHouse.tml
 -6166 77 501 -6158 83 509 ShortTower.tml
+-6140 67 356 -6132 77 364 LargeStoneHouseWBasement.tml
+-6134 71 719 -6129 74 726 PumpkinField.tml
+-6129 77 429 -6124 85 434 PillarBase.tml
 -4997 63 -7007 -4966 103 -6977 CastleOcean.tml
 -4994 63 -6976 -4963 103 -6946 CastleOcean.tml
 -4987 63 -6697 -4957 106 -6667 SkyCastle.tml

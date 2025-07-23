@@ -5,3 +5,10 @@ StonePlantMound2,-6338,-6325,373,385
 StonePlantMound3,-6500,-6489,348,357
 StoneLeafMound,-6389,-6380,351,358
 ChurchGraveyardRuins,-6295,-6248,465,508
+SmallOutpost,-6167,-6145,464,494
+StonePlantMound2,-6163,-6150,435,447
+RLCraft_BasicSkeleton,-6177,-6177,432,432
+RLCraft_UndergroundRuin1,-6180,-6171,426,435
+MysticalTree,-6180,-6164,417,432
+StonePlantMound,-6212,-6207,417,422
+PeacefulCrypt,-6228,-6212,369,393
