@@ -239,3 +239,47 @@
 [01:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann was shot by Skeleton
 [01:34:31] [Server thread/INFO] [tombstone]: The last known grave of IImariann is at location [name:Last Grave, x:-6513, y:72, z:579] in the dimension 0
 [01:34:31] [Server thread/INFO] [tombstone]: IImariann has successfully been saved
+[01:35:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: HVX2000 was pummeled by Violet Zephyr  Lvl 3
+[01:35:28] [Server thread/INFO] [tombstone]: The last known grave of HVX2000 is at location [name:Last Grave, x:-6508, y:107, z:571] in the dimension 0
+[01:35:28] [Server thread/INFO] [tombstone]: HVX2000 has successfully been saved
+[01:38:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter fell from a high place
+[01:38:58] [Server thread/INFO] [tombstone]: The last known grave of TheMexter is at location [name:Last Grave, x:-6514, y:78, z:570] in the dimension 0
+[01:38:58] [Server thread/INFO] [tombstone]: TheMexter has successfully been saved
+[01:38:58] [Server thread/INFO] [tombstone]: TheMexter has successfully been saved
+[01:39:00] [Thread-430/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 39fa1cb7-1fb1-314e-b3e8-1e35d66dfae7.
+[01:40:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[01:40:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[01:40:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[01:40:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TheMexter> z
+[01:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: HVX2000 died from hypothermia
+[01:40:43] [Server thread/INFO] [tombstone]: The last known grave of HVX2000 is at location [name:Last Grave, x:-6508, y:106, z:566] in the dimension 0
+[01:40:43] [Server thread/INFO] [tombstone]: HVX2000 has successfully been saved
+[01:40:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: HVX2000 moved wrongly!
+[01:41:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter was slain by Zombie
+[01:41:54] [Server thread/INFO] [tombstone]: TheMexter has successfully been saved
+[01:42:40] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:40] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:40] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:41] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:41] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:41] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:43] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:43] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:43] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:46] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:46] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:46] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:48] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:48] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:48] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:53] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:53] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:53] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:56] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:56] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:58] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:42:58] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:43:01] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
