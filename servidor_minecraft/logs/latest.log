@@ -214,3 +214,28 @@
 [01:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann has made the advancement [Ice Bucket Challenge]
 [01:20:44] [Server thread/INFO] [Scaling Health]: Blight Creeper was killed by TheMexter
 [01:21:22] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player TheMexter)
+[01:25:25] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@2a87e7f8)
+[01:25:25] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[01:25:25] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[01:25:25] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[01:25:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4859ms behind, skipping 97 tick(s)
+[01:25:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TheMexter moved too quickly! 9.332306736826467,1.0,-3.830724075461603
+[01:25:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImariann moved too quickly! 7.185933369092709,0.0,-7.108957993323429
+[01:25:30] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[01:25:30] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann was slain by Zombie
+[01:31:59] [Server thread/INFO] [tombstone]: The last known grave of IImariann is at location [name:Last Grave, x:-6507, y:106, z:572] in the dimension 0
+[01:31:59] [Server thread/INFO] [tombstone]: IImariann has successfully been saved
+[01:32:04] [Thread-415/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 3d0a6331-557b-3147-a242-9e68f47d4537.
+[01:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: HVX2000 was slain by Zombie
+[01:32:19] [Server thread/INFO] [tombstone]: The last known grave of HVX2000 is at location [name:Last Grave, x:-6505, y:98, z:573] in the dimension 0
+[01:32:19] [Server thread/INFO] [tombstone]: HVX2000 has successfully been saved
+[01:32:21] [Thread-417/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 4c791363-0334-3bff-84bc-aafce37b5460.
+[01:32:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: HVX2000 has reached the goal [A Fast Comeback]
+[01:32:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: HVX2000 has reached the goal [Here They Come]
+[01:32:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: HVX2000 has made the advancement [Monster Hunter]
+[01:33:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: HVX2000 has made the advancement [A Strange Grave's Dust]
+[01:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: HVX2000 has made the advancement [Diamonds!]
+[01:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann was shot by Skeleton
+[01:34:31] [Server thread/INFO] [tombstone]: The last known grave of IImariann is at location [name:Last Grave, x:-6513, y:72, z:579] in the dimension 0
+[01:34:31] [Server thread/INFO] [tombstone]: IImariann has successfully been saved
