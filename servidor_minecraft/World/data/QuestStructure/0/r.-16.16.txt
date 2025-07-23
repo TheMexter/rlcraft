@@ -4,3 +4,7 @@ StoneLeafMound,-8493,-8486,8671,8680
 ShrineSmallFire,-8528,-8518,8668,8678
 StonePlantBoulder,-8423,-8413,8632,8642
 StonePlantMound,-8438,-8433,8638,8643
+RLCraft_BasicSpider,-8476,-8476,8581,8581
+RLCraft_UndergroundRuin1,-8482,-8473,8575,8584
+StonePlantMound2,-8395,-8383,8545,8558
+UndergroundTreeoid,-8354,-8328,8436,8459

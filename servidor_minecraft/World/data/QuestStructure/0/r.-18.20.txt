@@ -1,0 +1,7 @@
+WoodThorn,-9334,-9323,10244,10255
+StoneBoulder,-9447,-9438,10243,10252
+SmallAbandonedMine,-9380,-9365,10287,10312
+Tree_Oak_TheMushroomOak_v3,-9339,-9280,10273,10323
+StonePlantMound4,-9351,-9344,10333,10340
+StoneBoulder,-9546,-9537,10285,10294
+StonePlantMound1,-9558,-9552,10244,10250

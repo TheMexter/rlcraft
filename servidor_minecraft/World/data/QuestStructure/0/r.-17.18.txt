@@ -240,3 +240,6 @@ StonePlantBoulder,-9146,-9136,9324,9334
 FallenPalmTree,-8745,-8735,9351,9355
 RLCraft_DecentSpider,-8720,-8720,9387,9387
 RLCraft_UndergroundRuin2,-8722,-8715,9382,9392
+ShrineSmallEarth,-8869,-8857,9679,9691
+RLCraft_DecentCaveSpider,-8744,-8744,9592,9592
+RLCraft_UndergroundRuin3,-8750,-8742,9589,9597

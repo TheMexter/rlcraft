@@ -9,15 +9,23 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-9565 54 10018 -9558 64 10025 BridgePilings-sm2.tml
+-9532 68 9908 -9524 74 9918 VanillaVillageForge-r.tml
+-9501 71 10185 -9494 78 10192 Outcrop.tml
+-9469 74 10265 -9461 80 10273 LargeStoneHouse.tml
 -9466 64 9810 -9461 72 9815 PillarBase.tml
 -9458 63 10102 -9446 104 10114 BaloonLow.tml
+-9395 63 10185 -9385 69 10193 VanillaVillageForge-r.tml
+-9388 71 10282 -9379 82 10287 VanillaVillageChurch-p.tml
 -9373 63 9774 -9368 74 9783 VanillaVillageChurch-r.tml
 -9365 62 9896 -9361 70 9900 SmallWell.tml
 -9338 62 9984 -9331 65 9989 Melonfield.tml
 -9319 67 10058 -9311 77 10066 TallTower.tml
 -9317 61 10150 -9309 67 10158 ShortTower.tml
+-9314 67 10317 -9299 75 10326 Archway.tml
 -9300 64 9699 -9290 72 9708 GuardHouse.tml
 -9290 61 9831 -9283 65 9838 TinyFarmField.tml
+-9289 61 10245 -9285 67 10248 StonePillar.tml
 -9258 73 9478 -9253 78 9483 VanillaVillageLadder-p.tml
 -9250 70 9908 -9242 75 9916 Pit-small.tml
 -9235 61 9398 -9227 71 9406 TallTower.tml
@@ -47,6 +55,8 @@
 -8986 67 9569 -8981 72 9574 VanillaVillageLadder-p.tml
 -8984 102 9297 -8977 107 9302 ZombieHut.tml
 -8958 54 9396 -8951 64 9403 BridgePilings-sm2.tml
+-8957 66 9846 -8942 77 9857 Barn-intact.tml
+-8938 63 9922 -8932 69 9930 StoneHouse.tml
 -8907 60 9563 -8900 69 9570 BridgePilings-small.tml
 -8904 77 9686 -8896 87 9694 LargeStoneHouseWBasement.tml
 -8887 59 9472 -8860 116 9491 GuardianFull.tml
@@ -54,6 +64,7 @@
 -8883 66 9256 -8879 72 9259 StonePillar.tml
 -8874 57 9172 -8863 78 9184 JungleTreePlatform.tml
 -8827 100 9785 -8819 109 9793 LargeStoneTwoStoryHouse.tml
+-8806 63 9645 -8798 69 9655 VanillaVillageForge-r.tml
 -8792 67 9275 -8785 70 9280 PumpkinField.tml
 -8786 63 9412 -8756 92 9442 Sphere.tml
 -8759 81 9002 -8752 85 9009 TinyFarmField.tml
@@ -72,12 +83,15 @@
 -8493 62 9195 -8476 89 9212 StoneHenge.tml
 -8488 64 8637 -8475 96 8650 OreSpire.tml
 -8481 65 8646 -8473 74 8654 LargeStoneTwoStoryHouse.tml
+-8475 75 8520 -8463 120 8532 TowerEasy.tml
 -8475 67 8941 -8467 73 8949 LargeStoneHouse.tml
 -8435 63 8837 -8428 70 8844 Outcrop.tml
 -8409 65 9118 -8400 72 9126 WoodHouse_Ruined.tml
+-8404 67 8599 -8397 70 8604 Melonfield.tml
 -8389 67 8964 -8386 73 8968 StonePillar.tml
 -8387 55 8685 -8380 65 8692 BridgePilings-sm2.tml
 -8387 45 8761 -8351 64 8772 SunkenShip-v2.tml
+-8366 38 8419 -8340 50 8427 shipwreck.tml
 -8335 67 9148 -8330 70 9155 Melonfield.tml
 -8334 63 8869 -8328 76 8876 TP_FishingShack.tml
 -8312 62 8999 -8304 68 9007 ShortTower.tml
@@ -85,7 +99,9 @@
 -8305 52 -167 -8269 63 -156 SunkenShip-v3.tml
 -8291 47 8670 -8255 58 8681 SunkenShip-v3.tml
 -8287 66 -289 -8283 68 -285 EmeraldOreOutcrop.tml
+-8256 63 8449 -8221 73 8483 UnderwaterBase.tml
 -8256 38 8830 -8230 50 8838 shipwreck.tml
+-8245 63 8548 -8215 100 8578 PirateShip.tml
 -8239 64 9036 -8231 73 9044 LargeStoneTwoStoryHouse.tml
 -8221 64 -11 -8206 75 0 Barn-intact.tml
 -8199 64 -217 -8185 77 -203 TreeDungeon.tml
@@ -94,10 +110,13 @@
 -8176 63 8907 -8146 106 8937 SkyCastle.tml
 -8175 67 -356 -8166 70 -347 RuinedSmallFountainDiagonal.tml
 -8164 48 -681 -8153 67 -645 SunkenShip-v2.tml
+-8156 63 8647 -8125 103 8677 CastleOcean.tml
 -8146 62 193 -8138 68 201 LargeStoneHouse.tml
+-8142 62 8474 -8130 84 8486 BaloonVeryLow.tml
 -8126 67 -5 -8122 75 -1 SmallWell.tml
 -8102 63 -257 -8094 73 -249 TallTower.tml
 -8087 65 -106 -8081 70 -101 VanillaVillageCobbleHouse-r.tml
+-8085 70 8303 -8083 74 8306 SkeletonHeadStatue.tml
 -8070 63 -1087 -8035 73 -1053 UnderwaterBase.tml
 -8070 64 -180 -8065 68 -175 CaveSpiderBurrow.tml
 -8064 78 203 -8058 84 211 StoneHouse.tml

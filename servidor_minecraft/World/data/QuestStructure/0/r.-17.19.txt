@@ -17,3 +17,5 @@ MeteorSite,-9121,-9106,9760,9790
 StonePlantMound1,-9083,-9077,9753,9759
 StonePlantMound3,-9066,-9057,9756,9767
 StonePlantBoulder,-9115,-9105,9728,9738
+StonePlantMound4,-8911,-8904,9856,9863
+StonePlantMound1,-8910,-8904,9933,9939

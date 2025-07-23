@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-23 01:45:28 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_nunchaku": {
     "criteria": {
       "has_diamond": "2025-07-23 01:34:02 +0000"
@@ -255,7 +261,8 @@
     "criteria": {
       "cooked_mutton": "2025-07-22 05:02:19 +0000",
       "porkchop": "2025-07-22 04:48:51 +0000",
-      "apple": "2025-07-22 02:37:38 +0000"
+      "apple": "2025-07-22 02:37:38 +0000",
+      "bread": "2025-07-23 01:51:01 +0000"
     },
     "done": false
   },
