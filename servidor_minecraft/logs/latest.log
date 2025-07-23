@@ -209,3 +209,4 @@
 [01:04:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <HVX2000> z
 [01:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <HVX2000> z
 [01:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <HVX2000> z
+[01:10:33] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
