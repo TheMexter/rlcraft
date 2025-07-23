@@ -210,3 +210,7 @@
 [01:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <HVX2000> z
 [01:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <HVX2000> z
 [01:10:33] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@417446d9
+[01:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TheMexter has reached the goal [Bone Crusher]
+[01:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImariann has made the advancement [Ice Bucket Challenge]
+[01:20:44] [Server thread/INFO] [Scaling Health]: Blight Creeper was killed by TheMexter
+[01:21:22] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player TheMexter)
